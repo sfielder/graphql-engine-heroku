@@ -22,7 +22,7 @@
   "stack": "container",
   "addons": [
     {
-      "plan": "heroku-postgresql:shield-0"
+      "plan": "heroku-postgresql:shield-s"
     }
   ]
 }
