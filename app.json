@@ -22,7 +22,7 @@
   "stack": "container",
   "addons": [
     {
-      "plan": "heroku-postgresql:private-0"
+      "plan": "heroku-postgresql:private-s"
     }
   ]
 }
